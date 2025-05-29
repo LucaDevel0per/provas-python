@@ -19,11 +19,3 @@ Os exercícios estão organizados em pastas ou arquivos com base em seus temas o
 
 Manter o hábito de codar diariamente, reforçar conceitos de Python e organizar meu progresso de maneira prática e acessível.
 
-## 🚀 Como usar
-
-Você pode clonar o repositório e executar os arquivos Python localmente:
-
-```bash
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
-cd nome-do-repositorio
-python nome_do_arquivo.py
